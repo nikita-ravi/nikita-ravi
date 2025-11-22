@@ -1,7 +1,7 @@
 # ✨ Hi, I'm **Nikita Ravi**
 
-**AI Developer • Data Analyst • ML Researcher**  
-**Healthcare • Emergency Tech • Workforce Equity • Commerce Analytics**
+**AI Developer • Data Analyst • NLP Researcher**  
+**Healthcare • Emergency Tech • Commerce Analytics**
 
 I’m **Nikita**, an AI & Data practitioner who loves building systems that solve meaningful, real-world problems — especially in **public-facing domains** where data-driven decisions can improve outcomes, efficiency, or safety.
 
